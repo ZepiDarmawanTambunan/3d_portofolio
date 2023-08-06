@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 
+scroll-behavior //ketika discroll lebih smooth
+color-scheme //tema gelap
+*/
 * {
   margin: 0;
   padding: 0;
