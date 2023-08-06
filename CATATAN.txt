@@ -1,0 +1,5 @@
+- npm create vite@latest 3d_portofolio -- --template react
+- install & setup tailwind
+- add public assets
+- npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+- add src/assets
