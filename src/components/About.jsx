@@ -45,8 +45,8 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)}
-      className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      I have strong skills and experience in using Laravel, React, Node.js, and Flutter. I am a fast learner, enthusiastic about continuous learning, and adaptable in various work environments. Moreover, my sociable nature allows me to quickly integrate into teams and contribute effectively in collaborative projects.
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
+        I have strong skills and experience in using Laravel, React, Node.js, and Flutter. I am a fast learner, enthusiastic about continuous learning, and adaptable in various work environments. Moreover, my sociable nature allows me to quickly integrate into teams and contribute effectively in collaborative projects.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
